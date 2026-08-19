@@ -1,0 +1,25 @@
+name: Feature request
+description: Something OmniScale doesn't do yet that you'd like it to.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the actual goal, not just the feature — it's easier to find the right solution that way.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you like OmniScale to do?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What do you do today instead?
+      description: A manual workaround, a different tool, or nothing at all.

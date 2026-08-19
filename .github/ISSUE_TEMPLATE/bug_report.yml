@@ -1,0 +1,96 @@
+# NOTE BEFORE PUBLISHING: replace OWNER/REPO in the links below. Relative
+# links do not resolve from the issue-form page.
+name: Bug report
+description: A swap failed, a game broke, or something else in OmniScale isn't working right.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting this. OmniScale's About screen shows the path to
+        its log file — please attach or paste the relevant part, since almost
+        every real bug report needs it to diagnose.
+
+        Found a security vulnerability instead? Please don't file it here — see
+        [SECURITY.md](https://github.com/OWNER/REPO/blob/main/SECURITY.md) for how to report it privately.
+
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version
+      description: Settings → System → About, or `winver`.
+      placeholder: e.g. Windows 11 24H2, build 26100.2314
+    validations:
+      required: true
+
+  - type: input
+    id: omniscale-version
+    attributes:
+      label: OmniScale version
+      description: The app's About screen.
+      placeholder: e.g. 1.0.0.0
+    validations:
+      required: true
+
+  - type: dropdown
+    id: build-type
+    attributes:
+      label: Build type
+      options:
+        - Installer
+        - Portable
+        - Not sure
+    validations:
+      required: true
+
+  - type: input
+    id: game
+    attributes:
+      label: Game affected
+      description: The exact game, and which launcher it's from. If it's not game-specific, say so.
+      placeholder: e.g. Cyberpunk 2077 (Steam)
+
+  - type: dropdown
+    id: feature
+    attributes:
+      label: Which part of OmniScale?
+      options:
+        - DLL swap (DLSS/FSR/XeSS)
+        - OptiScaler install/management
+        - DLSS Enabler install/management
+        - Runtime set update (Streamline/FidelityFX SDK 2/DirectStorage/Agility SDK)
+        - NTFS compression
+        - Game/library detection
+        - Install, update, or uninstall
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: What actually happened?
+      description: Be as specific as you can — an error message, a game that won't launch, a version that shows wrong, etc.
+    validations:
+      required: true
+
+  - type: textarea
+    id: log
+    attributes:
+      label: Log output
+      description: Paste the relevant part of OmniScale's log file (path shown on the About screen). Leave blank only if you genuinely can't find anything relevant.
+      render: text
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Anything else?
+      description: Screenshots, whether Reset fixed it, whether this is new or has always happened — anything that might help.

@@ -1,0 +1,19 @@
+# NOTE BEFORE PUBLISHING: every url below must be an ABSOLUTE https:// URL.
+# GitHub's issue chooser silently drops any contact_link with a relative path
+# or a non-URL value -- it does not warn, and it does not render a broken
+# link, the entry simply never appears. With blank_issues_enabled: false, a
+# reader would then see only the two issue forms and no links at all.
+#
+# Replace OWNER/REPO with the real repository, and KOFI_LINK / PATREON_LINK
+# with the real donation URLs.
+blank_issues_enabled: false
+contact_links:
+  - name: Frequently asked questions
+    url: https://github.com/OWNER/REPO/blob/main/docs/FAQ.md
+    about: Read this before filing — installation, safety, privacy, and licensing questions are answered here.
+  - name: Support OmniScale on Ko-fi
+    url: KOFI_LINK
+    about: One-off donations and a small membership tier.
+  - name: Become a patron
+    url: PATREON_LINK
+    about: Ongoing support, with input into what gets built next.
