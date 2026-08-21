@@ -4,6 +4,7 @@
 
 <h1 align="center">OmniScale</h1>
 <p align="center"><b>One Windows app for the upscaler runtimes a game ships with: see what's in each game, swap it for a different version, and put the original back.</b></p>
+<p align="center">Part of the <a href="#the-omnivex-suite">OmniVex</a> suite.</p>
 
 <p align="center">
   <a href="https://www.patreon.com/TheOmniGrid"><img alt="Get it on Patreon" src="https://img.shields.io/badge/Get%20it%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
