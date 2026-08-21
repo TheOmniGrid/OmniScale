@@ -4,7 +4,7 @@ OmniScale is not on any public download page — see
 ["Why isn't this on a store?"](FAQ.md#why-isnt-this-on-a-store) if you want
 the reasoning. Supporters get one of two builds directly: an installer or a
 portable zip. Haven't got a build yet? See
-[Get OmniScale](../README.md#get-omniscale) in the main README.
+[Get OmniScale](README.md#get-omniscale) in the main README.
 
 ## Installer
 
@@ -80,8 +80,8 @@ screen — and include it if you report the issue.
 
 **I updated and my library looks empty.** This should not happen — see
 ["What happens when I update OmniScale?"](FAQ.md#what-happens-when-i-update-omniscale).
-If it does, please [open an issue](../../../issues/new/choose) immediately
+If it does, please [open an issue](https://github.com/TheOmniGrid/OmniScale/issues/new/choose) immediately
 with your log file; this is treated as a critical bug, not a minor one.
 
-**Still stuck?** [Open an issue](../../../issues/new/choose) with your
+**Still stuck?** [Open an issue](https://github.com/TheOmniGrid/OmniScale/issues/new/choose) with your
 Windows version, OmniScale version, and what you were doing when it broke.

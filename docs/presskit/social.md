@@ -89,7 +89,7 @@ launchers, shows the detection claim isn't just a README number.
 > Swapper -- and donationware: not sold outright, not on any store. Builds
 > go directly to supporters through Ko-fi (https://ko-fi.com/theomnigrid) or Patreon
 > (https://www.patreon.com/TheOmniGrid), and if you can't support it right now, ask anyway --
-> you'll get a copy. See docs/INSTALL.md in the repo for setup.
+> you'll get a copy. See INSTALLATION.md in the repo for setup.
 
 **Screenshot:** a two-up of `games-library.png` and `runtime-versions.png`
 -- shows both the everyday view (your library, upscaler status at a

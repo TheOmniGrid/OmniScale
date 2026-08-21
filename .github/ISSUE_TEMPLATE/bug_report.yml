@@ -1,5 +1,5 @@
-# NOTE BEFORE PUBLISHING: replace OWNER/REPO in the links below. Relative
-# links do not resolve from the issue-form page.
+# NOTE: the links below must stay absolute. Relative links do not resolve
+# from the issue-form page.
 name: Bug report
 description: A swap failed, a game broke, or something else in OmniScale isn't working right.
 title: "[Bug]: "
