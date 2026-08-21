@@ -147,30 +147,58 @@ you'll get a copy anyway.
 OmniScale is one of a family of tools sharing a design language and a
 philosophy — modern, fast, no telemetry:
 
-**OmniTheme** · **OmniBlock** · **OmniCleaner** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniGPU** · **OmniVex Gaming Wrappers**
+**OmniTheme** · **OmniBlock** · **OmniCleaner** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniGPU** · **OmniWrappers**
 
-<sub>**OmniVex Gaming Wrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
+<sub>**OmniWrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
 
-## Support and bugs
+<sub>Tuned for framerate, mixed for headroom, sharp to the pixel. Donationware
+tools for gamers and audiophiles — audio, graphics, and a bit of privacy too.</sub>
 
-Found something broken? [Open an issue](../../issues/new/choose) — bug
-reports are welcome from everyone, supporter or not.
+More at [github.com/TheOmniGrid](https://github.com/TheOmniGrid).
 
-Security issues: read [SECURITY.md](SECURITY.md) first; please don't open a
-public issue for those.
+---
 
-## Licensing at a glance
+## Credit
 
-- **The software** is GPL-3.0. You get the source, and you may study, modify
-  and share it.
-- **The name, logo and OmniVex identity** are not covered by that license.
-  Fork the code freely; give the fork its own name.
+OmniScale is a modified version of
+**[DLSS Swapper](https://github.com/beeradmoore/dlss-swapper)** by **Brad Moore**,
+GPL-3.0 — taken from v1.2.5.0 in August 2026 and substantially rewritten and extended
+since. Its game-library detection, manifest format, download plumbing and translation
+system started there, and a great deal of that code is still his.
 
-Full text: [LICENSING.md](LICENSING.md) · [TRADEMARK.md](TRADEMARK.md) ·
-[Third-party notices](THIRD-PARTY-NOTICES.md)
+**OmniScale is a fork, not a rebrand.** DLSS Swapper's issue tracker, wiki and releases
+are Brad Moore's, and nothing in OmniScale files anything there — please don't report
+OmniScale problems to it.
+
+It also manages, without bundling, **[OptiScaler](https://github.com/optiscaler/OptiScaler)**
+by cdozdil and contributors (GPL-3.0) and **DLSS Enabler** by artur-graniszewski. The
+ideas behind two features are credited without their code: **DLSSTweaks** by emoose (MIT)
+and **CompactGUI** by IridiumIO (GPL-3.0). NVIDIA Streamline, AMD FidelityFX, Intel XeSS,
+Microsoft DirectStorage and the D3D12 Agility SDK each ship under their own vendor licence.
+
+Full attribution in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
+**Licensing at a glance:** the software is GPL-3.0 — you get the source, and you may study,
+modify and share it. The name, logo and OmniVex identity are not covered by that licence;
+fork the code freely, but give the fork its own name.
+[LICENSING.md](LICENSING.md) · [TRADEMARK.md](TRADEMARK.md)
+
+---
+
+## Contact
+
+Found something broken? [Open an issue](../../issues/new/choose) — bug reports are welcome
+from everyone, supporter or not.
+
+Security issues: read [SECURITY.md](SECURITY.md) first; please don't open a public issue
+for those.
+
+**omnivex@theomnigrid.biz**
 
 ---
 
 <div align="center">
-<sub>Built by <b>OmniVex</b> · A modified version of <a href="https://github.com/beeradmoore/dlss-swapper">DLSS Swapper</a> by Brad Moore</sub>
+
+Copyright © 2026 OmniVex · GPL-3.0 · A modified version of <a href="https://github.com/beeradmoore/dlss-swapper">DLSS Swapper</a> by Brad Moore. NVIDIA, AMD and Intel are trademarks of their respective owners; OmniScale is not affiliated with them.
+
 </div>
