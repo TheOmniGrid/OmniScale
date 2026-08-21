@@ -1,26 +1,36 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner-wide.svg" alt="OmniScale — Perfect scale. Every game." width="100%">
+</p>
 
-<img src="assets/banner.svg" width="640" alt="OmniScale — Perfect scale. Every game.">
+<h1 align="center">OmniScale</h1>
+<p align="center"><b>One Windows app for the upscaler runtimes a game ships with: see what's in each game, swap it for a different version, and put the original back.</b></p>
 
-One Windows app for the upscaler runtimes a game ships with: see what's in each
-game, swap it for a different version, and put the original back. Per game,
-with backups and a record of every write. Part of the [OmniVex](#the-omnivex-suite) suite.
+<p align="center">
+  <a href="https://www.patreon.com/TheOmniGrid"><img alt="Get it on Patreon" src="https://img.shields.io/badge/Get%20it%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
+  &nbsp;
+  <a href="https://ko-fi.com/theomnigrid"><img alt="Get it on Ko-fi" src="https://img.shields.io/badge/Get%20it%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
+</p>
 
-![Version](https://img.shields.io/badge/version-1.0.0.0-8A7BFF?style=flat-square)
-![License](https://img.shields.io/badge/license-GPL--3.0-8A7BFF?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-8A7BFF?style=flat-square)
-![Languages](https://img.shields.io/badge/languages-EN%20DE%20ES%20FR%20RO-8A7BFF?style=flat-square)
-![Telemetry](https://img.shields.io/badge/telemetry-none-4ADE80?style=flat-square)
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0.0-8A7BFF?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D4?style=flat-square&logo=windows&logoColor=white">
+  <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20·%20DE%20·%20ES%20·%20FR%20·%20RO-8A7BFF?style=flat-square">
+  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
+  <img alt="License" src="https://img.shields.io/badge/license-GPL--3.0-6A5BDB?style=flat-square">
+</p>
 
-[**Get OmniScale**](#get-omniscale) · [Features](#what-it-does) · [FAQ](docs/FAQ.md) · [Changelog](CHANGELOG.md)
+<p align="center">
+  <a href="#get-omniscale">Get OmniScale</a> ·
+  <a href="#what-it-does">Features</a> ·
+  <a href="docs/FAQ.md">FAQ</a> ·
+  <a href="CHANGELOG.md">Changelog</a>
+</p>
 
-</div>
+<p align="center">
+  <img src="assets/screenshots/games-library.png" alt="OmniScale's game grid, 351 games detected across seven launchers" width="920">
+</p>
 
 ---
-
-<div align="center">
-<img src="assets/screenshots/games-library.png" width="720" alt="OmniScale's game grid, 351 games detected across seven launchers">
-</div>
 
 ## What it does
 
