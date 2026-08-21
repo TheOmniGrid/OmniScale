@@ -19,11 +19,19 @@
   <img alt="License" src="https://img.shields.io/badge/license-GPL--3.0-6A5BDB?style=flat-square">
 </p>
 
+<!-- Quick navigation. These are clickable: each chip jumps to a section of this
+     page, or to the document it names. Anchors are GitHub's own slugs for the
+     headings below -- if a heading is renamed, its chip has to be renamed too. -->
 <p align="center">
-  <a href="#get-omniscale">Get OmniScale</a> ·
-  <a href="#what-it-does">Features</a> ·
-  <a href="docs/FAQ.md">FAQ</a> ·
-  <a href="CHANGELOG.md">Changelog</a>
+  <a href="#get-omniscale"><img alt="Get OmniScale" src="https://img.shields.io/badge/⬇%20Get%20OmniScale-8A7BFF?style=for-the-badge"></a>
+  <a href="#what-it-does"><img alt="Features" src="https://img.shields.io/badge/Features-2B2545?style=for-the-badge"></a>
+  <a href="#see-it"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2B2545?style=for-the-badge"></a>
+  <a href="#requirements"><img alt="Requirements" src="https://img.shields.io/badge/Requirements-2B2545?style=for-the-badge"></a>
+  <a href="#five-languages"><img alt="Languages" src="https://img.shields.io/badge/Languages-2B2545?style=for-the-badge"></a>
+  <a href="docs/PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-2B2545?style=for-the-badge"></a>
+  <a href="docs/INSTALL.md"><img alt="Install" src="https://img.shields.io/badge/Install-2B2545?style=for-the-badge"></a>
+  <a href="docs/FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-2B2545?style=for-the-badge"></a>
+  <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-2B2545?style=for-the-badge"></a>
 </p>
 
 <p align="center">
