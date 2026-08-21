@@ -129,7 +129,7 @@ you'll get a copy anyway.
 OmniScale is one of a family of tools sharing a design language and a
 philosophy — modern, fast, no telemetry:
 
-**OmniTheme** · **OmniBlock** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade**
+**OmniTheme** · **OmniBlock** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniCleaner** · **OmniGPU** · **Omnivex Gaming Wrappers**
 
 ## Support and bugs
 
