@@ -123,12 +123,11 @@ just the menus. OmniScale follows your Windows display language automatically.
 OmniScale is **donationware**. It is not on any store, and it is not sold
 outright — it's supported directly by the people who use it.
 
-<div align="center">
-
-[![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/theomnigrid)
-[![Become a Patron](https://img.shields.io/badge/Become_a-Patron-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/TheOmniGrid)
-
-</div>
+<p align="center">
+  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/support-patreon.svg" height="64" alt="Support OmniScale on Patreon"></a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/theomnigrid"><img src="assets/support-kofi.svg" height="64" alt="Support OmniScale on Ko-fi"></a>
+</p>
 
 Supporters get the packaged, ready-to-install build (installer or portable,
 your choice), the complete source matching that exact build, and new releases
