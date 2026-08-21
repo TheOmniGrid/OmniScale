@@ -1,14 +1,14 @@
 # Frequently asked questions
 
 Short, direct answers. If your question isn't here, [open an
-issue](../../../issues/new/choose).
+issue](https://github.com/TheOmniGrid/OmniScale/issues/new/choose).
 
 ## Why isn't this on a store?
 
 There isn't really a "store" for this kind of tool — OmniScale is a
 standalone Windows app, not a browser extension. It's donationware: builds
 go directly to supporters through Ko-fi or Patreon rather than being handed
-out for free from a public download page. See [Get OmniScale](../README.md#get-omniscale).
+out for free from a public download page. See [Get OmniScale](README.md#get-omniscale).
 
 ## Is it really free software if I donate for it?
 
@@ -17,7 +17,7 @@ Yes. OmniScale is GPL-3.0, because it's a modified version of
 GPL-3.0 itself. Anyone who has a copy — donor or not — gets the full source
 and every right the GPL grants: use it, study it, modify it, share it. The
 donation buys convenience and continuity, not permission. Full detail:
-[LICENSING.md](../LICENSING.md).
+[LICENSING.md](LICENSING.md).
 
 ## Can I share my copy?
 
@@ -36,7 +36,7 @@ transparent compression, drift detection when a game update reverts a swap,
 and honest reporting on what FSR 4 actually requires (the driver, not a
 file). The game-library detection, manifest format and translation
 plumbing underneath still trace back to DLSS Swapper — see
-[THIRD-PARTY-NOTICES.md](../THIRD-PARTY-NOTICES.md).
+[THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 ## Does OmniScale actually turn on FSR 4?
 
@@ -83,6 +83,6 @@ want the app data back.
 
 The GPL means the source doesn't stop existing along with the project —
 anyone who has a copy keeps every right to it, including the right to fork
-it under a new name and icon (see [TRADEMARK.md](../TRADEMARK.md)). What
+it under a new name and icon (see [TRADEMARK.md](TRADEMARK.md)). What
 would stall is tracking new upscaler runtimes as vendors ship them — DLLs
 already in the catalogue keep working exactly as they do today.

@@ -28,13 +28,17 @@
   <a href="#what-it-does"><img alt="Features" src="https://img.shields.io/badge/Features-2B2545?style=for-the-badge"></a>
   <a href="#five-languages"><img alt="Languages" src="https://img.shields.io/badge/Languages-2B2545?style=for-the-badge"></a>
   <a href="#see-it"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2B2545?style=for-the-badge"></a>
-  <a href="docs/PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-2B2545?style=for-the-badge"></a>
+  <a href="PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-2B2545?style=for-the-badge"></a>
   <a href="#what-this-does-not-do"><img alt="Limitations" src="https://img.shields.io/badge/Limitations-2B2545?style=for-the-badge"></a>
   <a href="#requirements"><img alt="Requirements" src="https://img.shields.io/badge/Requirements-2B2545?style=for-the-badge"></a>
-  <a href="docs/INSTALL.md"><img alt="Installation" src="https://img.shields.io/badge/Installation-2B2545?style=for-the-badge"></a>
-  <a href="docs/FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-2B2545?style=for-the-badge"></a>
+  <a href="INSTALLATION.md"><img alt="Installation" src="https://img.shields.io/badge/Installation-2B2545?style=for-the-badge"></a>
+  <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-2B2545?style=for-the-badge"></a>
+  <a href="SUPPORT.md"><img alt="Support" src="https://img.shields.io/badge/Support-2B2545?style=for-the-badge"></a>
   <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-2B2545?style=for-the-badge"></a>
 </p>
+
+> [!IMPORTANT]
+> **Documentation-only repository.** This public repository contains OmniScale documentation, approved artwork, and screenshots—not the application source tree, installer, binary releases, signing material, or private build infrastructure. Official distribution remains outside GitHub.
 
 <p align="center">
   <img src="assets/screenshots/games-library.png" alt="OmniScale's game grid, 351 games detected across seven launchers" width="920">
@@ -85,6 +89,11 @@ left uncompressed.
 swap is detected and offered back, one game at a time or across the whole
 library at once.
 
+## Five languages
+
+English, Deutsch, Español, Français and Română — the complete interface, not
+just the menus. OmniScale follows your Windows display language automatically.
+
 ## See it
 
 <table>
@@ -93,14 +102,6 @@ library at once.
 <td><img src="assets/screenshots/runtime-versions.png" alt="Runtime version library"><br><sub><b>Library</b> — every DLSS/FSR/XeSS runtime version OmniScale tracks, FSR 4 included, on its own tab.</sub></td>
 </tr>
 </table>
-
-## Requirements
-
-| | |
-| --- | --- |
-| OS | Windows 10 64-bit, build 19041 (20H1) or newer |
-| GPU | Any. Some features need a specific vendor's hardware to have any effect. |
-| Runtime | None. The build carries its own .NET and Windows App SDK. |
 
 ## What this does not do
 
@@ -115,10 +116,13 @@ Do not put OptiScaler or DLSS Enabler into a multiplayer game with
 kernel-level anti-cheat. OmniScale warns you and makes you type a
 confirmation; the ban risk is still yours.
 
-## Five languages
+## Requirements
 
-English, Deutsch, Español, Français and Română — the complete interface, not
-just the menus. OmniScale follows your Windows display language automatically.
+| | |
+| --- | --- |
+| OS | Windows 10 64-bit, build 19041 (20H1) or newer |
+| GPU | Any. Some features need a specific vendor's hardware to have any effect. |
+| Runtime | None. The build carries its own .NET and Windows App SDK. |
 
 ## Get OmniScale
 
@@ -142,6 +146,20 @@ source with it, along with every freedom that license grants.
 
 If you can't afford to give anything, that's genuinely fine — say so and
 you'll get a copy anyway.
+
+## Documentation
+
+| | |
+|---|---|
+| [Installation](INSTALLATION.md) | Installer and portable setup |
+| [Privacy](PRIVACY.md) | Local data, downloads and telemetry boundaries |
+| [FAQ](FAQ.md) | Common detection, switching and compatibility questions |
+| [Support](SUPPORT.md) | Useful reports, privacy redaction and contact routes |
+| [Security](SECURITY.md) | Private vulnerability reporting |
+| [Contributing](CONTRIBUTING.md) | Documentation and reproducible-report scope |
+| [Changelog](CHANGELOG.md) | Release history |
+| [Licensing](LICENSING.md) | GPL terms, distribution and source availability |
+| [Third-party notices](THIRD-PARTY-NOTICES.md) | Upstream projects and vendor components |
 
 ## The OmniVex suite
 
