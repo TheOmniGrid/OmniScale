@@ -13,7 +13,7 @@ body:
         every real bug report needs it to diagnose.
 
         Found a security vulnerability instead? Please don't file it here — see
-        [SECURITY.md](https://github.com/OWNER/REPO/blob/main/SECURITY.md) for how to report it privately.
+        [SECURITY.md](https://github.com/TheOmniGrid/OmniScale/blob/main/SECURITY.md) for how to report it privately.
 
   - type: input
     id: windows-version

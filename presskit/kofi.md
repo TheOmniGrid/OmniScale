@@ -32,7 +32,7 @@ gets you:
 - Release notes explaining what actually changed, not a version bump.
 
 Higher tiers with earlier builds and roadmap input live on
-Patreon (PATREON_LINK), if that's more your speed.
+Patreon (https://www.patreon.com/TheOmniGrid), if that's more your speed.
 
 ## One more thing
 

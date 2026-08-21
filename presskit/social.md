@@ -9,7 +9,7 @@ to assets/screenshots/*.png.
 > OmniScale: one Windows app for the upscaler DLLs a game ships with. Swap
 > DLSS/FSR/XeSS versions, manage OptiScaler and DLSS Enabler, get the
 > truth about what FSR 4 actually needs. Free software, donationware, not
-> on any store. KOFI_LINK
+> on any store. https://ko-fi.com/theomnigrid
 
 (224 characters, room to spare for a link shortener or hashtag.)
 
@@ -27,7 +27,7 @@ every real tile.
 > signature-checked, every swap keeps a backup, and it tells you the truth
 > about FSR 4: that's a driver feature, not a file. Free software
 > (GPL-3.0) and donationware -- supported directly by the people who use
-> it. KOFI_LINK / PATREON_LINK
+> it. https://ko-fi.com/theomnigrid / https://www.patreon.com/TheOmniGrid
 
 **Screenshot:** `runtime-versions.png` -- every DLSS/FSR/XeSS version
 OmniScale tracks, FSR 4 on its own tab. Concrete, and it shows the product
@@ -87,8 +87,8 @@ launchers, shows the detection claim isn't just a README number.
 >
 > It's free software -- GPL-3.0, since it's a modified version of DLSS
 > Swapper -- and donationware: not sold outright, not on any store. Builds
-> go directly to supporters through Ko-fi (KOFI_LINK) or Patreon
-> (PATREON_LINK), and if you can't support it right now, ask anyway --
+> go directly to supporters through Ko-fi (https://ko-fi.com/theomnigrid) or Patreon
+> (https://www.patreon.com/TheOmniGrid), and if you can't support it right now, ask anyway --
 > you'll get a copy. See docs/INSTALL.md in the repo for setup.
 
 **Screenshot:** a two-up of `games-library.png` and `runtime-versions.png`

@@ -27,7 +27,7 @@ Ubisoft Connect, Xbox, Battle.net and EA automatically.
 It's free software (GPL-3.0, since it's a modified version of DLSS Swapper,
 https://github.com/beeradmoore/dlss-swapper) and donationware: it isn't on
 any store, and the only way to get a build is directly from this page or
-from Ko-fi (KOFI_LINK).
+from Ko-fi (https://ko-fi.com/theomnigrid).
 
 OmniScale is honest about its limits, too: it does not and cannot switch
 on FSR 4 by copying files -- that's a driver feature, and OmniScale reports

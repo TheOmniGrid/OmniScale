@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="assets/icon-128.png" width="96" alt="OmniScale">
-
-# OmniScale
-
-**Perfect scale. Every game.**
+<img src="assets/banner.svg" width="640" alt="OmniScale — Perfect scale. Every game.">
 
 One Windows app for the upscaler runtimes a game ships with: see what's in each
 game, swap it for a different version, and put the original back. Per game,
@@ -111,7 +107,8 @@ outright — it's supported directly by the people who use it.
 
 <div align="center">
 
-### [☕ Support on Ko-fi](KOFI_LINK) · [★ Become a patron](PATREON_LINK)
+[![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/theomnigrid)
+[![Become a Patron](https://img.shields.io/badge/Become_a-Patron-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/TheOmniGrid)
 
 </div>
 
