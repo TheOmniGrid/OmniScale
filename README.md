@@ -129,7 +129,9 @@ you'll get a copy anyway.
 OmniScale is one of a family of tools sharing a design language and a
 philosophy — modern, fast, no telemetry:
 
-**OmniTheme** · **OmniBlock** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniCleaner** · **OmniGPU** · **Omnivex Gaming Wrappers**
+**OmniTheme** · **OmniBlock** · **OmniCleaner** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniGPU** · **OmniVex Gaming Wrappers**
+
+<sub>**OmniVex Gaming Wrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
 
 ## Support and bugs
 
