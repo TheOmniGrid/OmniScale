@@ -226,6 +226,6 @@ for repository scope and reporting guidance.
   <a href="https://github.com/TheOmniGrid">The OmniGrid on GitHub</a> ·
   <a href="https://ko-fi.com/theomnigrid">Ko-fi</a> ·
   <a href="https://www.patreon.com/TheOmniGrid">Patreon</a><br><br>
-  <sub>Copyright © 2026 OmniVex · GPL-3.0 · <a href="LICENSING.md">Licensing</a></sub><br>
+  <sub>Copyright © 2026 OmniVex · GPL-3.0 · <a href="LICENSING.md">Legal &amp; licensing</a></sub><br>
   <sub>A modified version of <a href="https://github.com/beeradmoore/dlss-swapper">DLSS Swapper</a> by Brad Moore. NVIDIA, AMD and Intel are trademarks of their respective owners; OmniScale is not affiliated with them.</sub>
 </p>
