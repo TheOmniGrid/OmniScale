@@ -49,6 +49,8 @@
 
 ## What it does
 
+![OmniScale capability map covering upscaler swaps, mod management, runtime sets, and game-library maintenance](assets/presentation/capabilities.png)
+
 **Swap the upscaler DLLs.** DLSS, DLSS Frame Generation, DLSS Ray Reconstruction,
 AMD FSR 3.1 (DirectX 12 and Vulkan), Intel XeSS up to XeSS 3, XeSS for DirectX 11,
 XeSS Frame Generation and XeLL. Every file is checked against its Authenticode
