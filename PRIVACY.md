@@ -51,16 +51,25 @@ keys of its own, so with none configured none of these are ever contacted:
 
 | Host | Purpose |
 |---|---|
-| `www.youtube.com` and the Google hosts it loads from | When a game's page has found a trailer, it plays one, muted and looping, inside an embedded YouTube player. |
+| `www.youtube-nocookie.com` and the Google hosts it loads video from | When a game's page has found a trailer, it plays one, muted and looping, inside an embedded YouTube player. |
+| `www.youtube.com` | One request, for the player script itself — see the note below. |
 
 This one deserves singling out, because it is the only place OmniScale loads
 **someone else's web page** rather than fetching a file: YouTube and Google
 see the request the same way they would if you opened that video in a
-browser tab, and they may set cookies in the player's own profile described
-above. It only happens when a trailer was found for that game, which
+browser tab. The player is pointed at YouTube's **privacy-enhanced**
+`youtube-nocookie.com` domain, which is what governs cookies during
+playback.
+
+Being precise about the second row, rather than claiming more than is true:
+YouTube publishes the player script only from `www.youtube.com`, so that one
+request is made whenever a game's page opens a player, even though playback
+itself runs on the nocookie domain.
+
+All of this only happens when a trailer was found for that game, which
 requires IGDB credentials — with no IGDB key configured, no trailer is ever
-looked up and YouTube is never contacted. Opening a game's page is what
-starts it; the library grid never does.
+looked up and neither host is contacted at all. Opening a game's page is
+what starts it; the library grid never does.
 
 Apart from that player, every request above is for **public data OmniScale
 needs to do its job** — a manifest, a file, a version number. None of them
