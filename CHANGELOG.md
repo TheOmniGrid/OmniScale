@@ -28,6 +28,10 @@ All notable changes to OmniScale are recorded here, most recent first.
 - The game page's banner is now a deliberately blurred rendition of the
   cover rather than the cover stretched wide, which no longer looks
   low-resolution for games whose store art is small to begin with.
+- The interface is now fully translated into **ten languages**: English,
+  German, Spanish, French, Romanian, Russian, Simplified Chinese, Japanese,
+  Korean and Turkish. The last five previously existed only in part and fell
+  back to English for most of the interface.
 
 ### Fixed
 - A library scan could restart itself while one was already running — for
