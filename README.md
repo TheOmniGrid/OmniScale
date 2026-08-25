@@ -15,10 +15,10 @@
 <!-- Suite metadata: Version · Platform · Languages · Telemetry · Distribution -->
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0.0-8A7BFF?style=flat-square">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20%C2%B7%20x64-0078D4?style=flat-square">
-  <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20RO-8A7BFF?style=flat-square">
-  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
-  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-99A3B1?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20%C2%B7%20x64-57C7FF?style=flat-square">
+  <img alt="Languages: 10" src="https://img.shields.io/badge/languages-10-8A7BFF?style=flat-square">
+  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-00C66D?style=flat-square">
+  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-969FAB?style=flat-square&labelColor=30363D">
 </p>
 
 <!-- Quick navigation. These are clickable: each chip jumps to a section of this
@@ -27,7 +27,7 @@
 <p align="center">
   <a href="#get-omniscale"><img alt="Get OmniScale" src="https://img.shields.io/badge/⬇%20Get%20OmniScale-8A7BFF?style=for-the-badge"></a>
   <a href="#what-it-does"><img alt="Features" src="https://img.shields.io/badge/Features-2B2545?style=for-the-badge"></a>
-  <a href="#five-languages"><img alt="Languages" src="https://img.shields.io/badge/Languages-2B2545?style=for-the-badge"></a>
+  <a href="#ten-languages"><img alt="Languages" src="https://img.shields.io/badge/Languages-2B2545?style=for-the-badge"></a>
   <a href="#see-it"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2B2545?style=for-the-badge"></a>
   <a href="PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-2B2545?style=for-the-badge"></a>
   <a href="#what-this-does-not-do"><img alt="Limitations" src="https://img.shields.io/badge/Limitations-2B2545?style=for-the-badge"></a>
@@ -92,10 +92,11 @@ left uncompressed.
 swap is detected and offered back, one game at a time or across the whole
 library at once.
 
-## Five languages
+## Ten languages
 
-English, Deutsch, Español, Français and Română — the complete interface, not
-just the menus. OmniScale follows your Windows display language automatically.
+English, Deutsch, Español, Français, Română, Русский, 简体中文, 日本語, 한국어,
+and Türkçe — the complete interface, not just the menus. OmniScale follows a
+supported Windows display language automatically and falls back safely to English.
 
 ## See it
 

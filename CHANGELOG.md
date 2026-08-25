@@ -2,6 +2,44 @@
 
 All notable changes to OmniScale are recorded here, most recent first.
 
+## Unreleased
+
+### Added
+- A redesigned game page header: the game's own cover art at full size
+  beside a wide banner, with the title, its details and the action buttons
+  laid out down the side rather than crowded along the bottom.
+- Autoplaying game trailers on a game's page — muted, looping, no controls,
+  as atmosphere rather than something to interact with. Requires IGDB
+  credentials in Settings; without them no trailer is looked up and nothing
+  is contacted. **This is the only feature that loads an external web page
+  by default**, so it is called out in [PRIVACY.md](PRIVACY.md).
+- Game descriptions on a game's page: genre, release year, developer and
+  publisher, and a short summary, from IGDB using the same credentials.
+- A custom cover can now be picked from a local image file, not only from
+  the online cover search.
+- Battle.net pre-release products (betas, PTR and test builds) are labelled
+  as such — a beta that shares its install folder with the real game now
+  reads "Call of Duty (Beta)" instead of a second, identical "Call of Duty".
+
+### Changed
+- Cover art is cached at four times the previous resolution, so covers look
+  sharp at the larger sizes the new game page uses. Existing games refetch
+  their art once, on the next scan after updating.
+- The game page's banner is now a deliberately blurred rendition of the
+  cover rather than the cover stretched wide, which no longer looks
+  low-resolution for games whose store art is small to begin with.
+- The interface is now fully translated into **ten languages**: English,
+  German, Spanish, French, Romanian, Russian, Simplified Chinese, Japanese,
+  Korean and Turkish. The last five previously existed only in part and fell
+  back to English for most of the interface.
+
+### Fixed
+- A library scan could restart itself while one was already running — for
+  example when a store was switched on or off mid-scan — leaving the app
+  unresponsive with a game count that never finished.
+- Two colours in the title bar and one in the DLL picker did not follow the
+  app's own palette.
+
 ## 1.0.0.0
 
 The first release. A modified version of DLSS Swapper v1.2.5.0, substantially
